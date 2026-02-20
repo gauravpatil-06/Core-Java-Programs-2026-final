@@ -1,0 +1,40 @@
+
+-------------------------
+Book ID        : 101
+Book Name      : Core Java
+Author Name    : James Gosling
+Book Price     : ₹499.0
+Publisher      : Technical Publications
+-------------------------
+
+-------------------------
+Book ID        : 102
+Book Name      : Advanced Java
+Author Name    : Herbert Schildt
+Book Price     : ₹599.0
+Publisher      : Technical Publications
+-------------------------
+
+-------------------------
+Book ID        : 103
+Book Name      : Spring Boot
+Author Name    : Craig Walls
+Book Price     : ₹699.0
+Publisher      : Technical Publications
+-------------------------
+
+-------------------------
+Book ID        : 104
+Book Name      : Hibernate
+Author Name    : Gavin King
+Book Price     : ₹549.0
+Publisher      : Technical Publications
+-------------------------
+
+-------------------------
+Book ID        : 105
+Book Name      : DSA in Java
+Author Name    : Narasimha Karumanchi
+Book Price     : ₹799.0
+Publisher      : Technical Publications
+-------------------------
