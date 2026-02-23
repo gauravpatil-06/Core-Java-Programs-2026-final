@@ -1,0 +1,4 @@
+
+Hi, I am Gaurav Patil
+Learning Core Java File Handling
+This is append mode example
